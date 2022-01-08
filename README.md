@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @K4rlw1nkl3r
 - 👀 I’m interested in music
 - 🌱 I’m currently learning languages, but also trying to improve my knowledges
-- 📫 How to reach me: emmaantifa7@gmail.com
 
 <!---
 K4rlw1nkl3r/K4rlw1nkl3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
